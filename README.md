@@ -28,8 +28,8 @@ The repository is organized into folders, each representing a different system o
 
 # Links to Projects
 
-- [Pet Store](https://github.com/viniciusdelucena/manual-test-project/tree/main/PetStore)
-- [Conduit](https://github.com/viniciusdelucena/manual-test-projects/tree/main/Conduit)
+- [Conduit](https://github.com/viniciusdelucena/manual-testing-projects/tree/main/Conduit)
+- [Pet Store](https://github.com/viniciusdelucena/manual-testing-projects/tree/main/PetStore)
 
 
 ## Author
